@@ -23,9 +23,9 @@ your company.
 [eco-sounds](https://rolling-scopes-school.github.io/marianchuk-JSFEPRESCHOOL/eco-sounds/)\
 [image-galery](https://rolling-scopes-school.github.io/marianchuk-JSFEPRESCHOOL/image-galery/)\
 [tic-tac-toe](https://rolling-scopes-school.github.io/marianchuk-JSFEPRESCHOOL/tic-tac-toe/)\
-[Slider](https://marianchuk.github.io/03_slider/)\
-[Drag and Drop](https://marianchuk.github.io/02_drag_and_drop/)\
-[Gallery](https://marianchuk.github.io/01_gallery_of_cards/)\
+[slider](https://marianchuk.github.io/03_slider/)\
+[drag and drop](https://marianchuk.github.io/02_drag_and_drop/)\
+[gallery](https://marianchuk.github.io/01_gallery_of_cards/)
 ***
 ## Employment history
 Full time studying
