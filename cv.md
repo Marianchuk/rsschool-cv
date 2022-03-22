@@ -29,3 +29,49 @@ your company.
 [gallery](https://marianchuk.github.io/01_gallery_of_cards/)
 
 ***
+
+## Employment history
+Full time studying
+ * **Student, RS School**\
+  JS/Frontend\
+  *Des, 2021 - now*
+
+ * **Student, SoftServe**\
+  HTML5, CSS3, Bootstrap\
+  *Sep, 2021 Des, 2021*
+    
+ * **Senior Talent Sourcing Consultant, Ciklum**\
+  *Nov, 2019 – Aug, 2021*
+
+## Education
+ * **RS School** - JS/Frontend\
+(Des, 2021 - now)
+     
+ * **SoftServe IT Academy** - HTML, CSS, JS\
+(Sep, 2021 - Des, 2021)
+
+## Skills
+* HTML
+* CSS
+* JS
+* GIT
+
+## Code
+```
+const addBirdsClickHandler = () => {
+    birds.addEventListener('click', (e) => {
+        let name = e.target.classList
+            audio.src = `audio/${name}.mp3`
+            cover.src = `img/${name}.jpg`
+            isPlay = false;
+            button.classList.remove('pause');
+
+    })
+}
+
+```
+
+## Languages
+English – Strong Intermediate
+## Hobbies
+Cycling, painting, hiking
