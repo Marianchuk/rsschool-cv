@@ -46,3 +46,28 @@ Full time studying
      
  * **SoftServe IT Academy** - HTML, CSS, JS\
 (Sep, 2021 - Des, 2021)
+
+## Skills
+* HTML
+* CSS
+* JS
+
+## Code
+```
+const addBirdsClickHandler = () => {
+    birds.addEventListener('click', (e) => {
+        let name = e.target.classList
+            audio.src = `audio/${name}.mp3`
+            cover.src = `img/${name}.jpg`
+            isPlay = false;
+            button.classList.remove('pause');
+
+    })
+}
+
+```
+
+## Languages
+English – Strong Intermediate
+## Hobbies
+Cycling, painting, hiking
