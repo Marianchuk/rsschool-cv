@@ -26,6 +26,7 @@ your company.
 [slider](https://marianchuk.github.io/03_slider/)\
 [drag and drop](https://marianchuk.github.io/02_drag_and_drop/)\
 [gallery](https://marianchuk.github.io/01_gallery_of_cards/)
+
 ***
 ## Employment history
 Full time studying
@@ -51,6 +52,7 @@ Full time studying
 * HTML
 * CSS
 * JS
+* GIT
 
 ## Code
 ```
