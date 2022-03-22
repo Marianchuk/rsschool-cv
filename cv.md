@@ -27,3 +27,22 @@ your company.
 [Drag and Drop](https://marianchuk.github.io/02_drag_and_drop/)\
 [Gallery](https://marianchuk.github.io/01_gallery_of_cards/)\
 ***
+## Employment history
+Full time studying
+ * **Student, RS School**\
+  JS/Frontend\
+  *Des, 2021 - now*
+
+ * **Student, SoftServe**\
+  HTML5, CSS3, Bootstrap\
+  *Sep, 2021 Des, 2021*
+    
+ * **Senior Talent Sourcing Consultant, Ciklum**\
+  *Nov, 2019 – Aug, 2021*
+
+## Education
+ * **RS School** - JS/Frontend\
+(Des, 2021 - now)
+     
+ * **SoftServe IT Academy** - HTML, CSS, JS\
+(Sep, 2021 - Des, 2021)
